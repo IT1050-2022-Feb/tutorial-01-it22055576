@@ -28,7 +28,7 @@ int main() {
     printf("the total is:%.2f",price);
   }
     else{
-      price=30.0*x;
+      price=50.0*x;
       printf("the total price is:%.2f",price);
     }
       
